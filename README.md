@@ -12,3 +12,14 @@
 6. It integrates memory, streaming outputs, and tooling, as well as human inputs to enhance flexibility and reliability proportionality.
 7. LangGraph thus enables creating Agents that can decide next steps over context and give the best of controlled and dynamic decisions.
 <img width="1045" height="576" alt="Screenshot 2025-10-16 at 11 51 33" src="https://github.com/user-attachments/assets/249980c7-42fb-4179-980a-68dce3ab2f52" />
+
+# Module 1: Lesson 2 - Simple Graph
+<img width="1505" height="672" alt="image" src="https://github.com/user-attachments/assets/beaed683-5dfb-4ebf-a013-821b82773b51" />
+1. Above is a simple graph with 3 nodes and 1 conditional edges.
+2. State is the input schema which travels through the graph.
+3. Nodes are just python functions that return a value of the State key which overrides previous value.
+4. Edges are what connect the nodes; There exists Normal Node which go from node-1 to node-2 or Conditional Node which decides between n nodes upon some logic.
+5. All these components make the Graph; START node through normal and conditional nodes to END node.
+6. Invocation is the go to standard procedure starting from START node to END node
+7. Check out the below example where I tweaked the code to toss the coin in a 60/40 bias between Heads and Tails, code uploaded as well.
+<img width="1212" height="683" alt="Screenshot 2025-10-16 at 12 13 59" src="https://github.com/user-attachments/assets/d3ea36a0-cce8-402c-9647-0412d15d1794" />
