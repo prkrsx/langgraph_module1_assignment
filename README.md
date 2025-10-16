@@ -28,4 +28,7 @@ Above is a simple graph with 3 nodes and 1 conditional edges.
 1. It's an IDE designed to trace and experiment with the graph, it's nodes and links.
 2. You can see the flow of an event by the Agent as a graph, modify prompts and run tests on datasets.
 <img width="2938" height="1662" alt="image" src="https://github.com/user-attachments/assets/e5ac5efd-fc71-405d-92a7-54ef7afcee38" />
- 
+
+# Module 1: Lesson 4 - Chain
+1. Learnt tool calling and to use tools with graphs using a chain. This means that a tool is initialised with a list of messages, each containing a node in the graph.
+2. Made my own tool calling function that returns a specific category of quotes in technology domain and tested it. I also changed up the initial messages.
