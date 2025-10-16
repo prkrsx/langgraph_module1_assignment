@@ -38,3 +38,8 @@ Above is a simple graph with 3 nodes and 1 conditional edges.
 2. Below is the example of the code tweaked:
 <img width="1468" height="831" alt="image" src="https://github.com/user-attachments/assets/b986df44-6acb-414e-a818-f07cc3f764d9" />
 
+# Module 1: Lesson 6 - Agent
+1. Created an Agent that solves mathematical expressions.
+2. Router Node Behaviour: Now receives and processes tools calls in a loop until a correct answer is generated.
+3. Below is the example of the code tweaked to take two inputs a and b, find it's floor division then exponent and then modulo:
+<img width="1170" height="888" alt="image" src="https://github.com/user-attachments/assets/7fa4bfb8-791b-4660-a789-38b1b7b79323" />
