@@ -43,3 +43,9 @@ Above is a simple graph with 3 nodes and 1 conditional edges.
 2. Router Node Behaviour: Now receives and processes tools calls in a loop until a correct answer is generated.
 3. Below is the example of the code tweaked to take two inputs a and b, find it's floor division then exponent and then modulo:
 <img width="1170" height="888" alt="image" src="https://github.com/user-attachments/assets/7fa4bfb8-791b-4660-a789-38b1b7b79323" />
+
+# Module 1: Lesson 7 - Agent with Memory
+1. Modified the agent that solves mathematical expressions to retain memory via thread_id.
+2. Here's a toy around example from LangSmith Studio:
+<img width="1470" height="832" alt="image" src="https://github.com/user-attachments/assets/50fd083d-d292-4137-acf5-3acd58b8a1db" />
+
