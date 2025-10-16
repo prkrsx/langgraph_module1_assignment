@@ -32,3 +32,9 @@ Above is a simple graph with 3 nodes and 1 conditional edges.
 # Module 1: Lesson 4 - Chain
 1. Learnt tool calling and to use tools with graphs using a chain. This means that a tool is initialised with a list of messages, each containing a node in the graph.
 2. Made my own tool calling function that returns a specific category of quotes in technology domain and tested it. I also changed up the initial messages.
+
+# Module 1: Lesson 5 - Router
+1. Learnt how to make an LLM decide whether to call a tool by interpreting input via the concept called router. A tool call is generated only when asked, otherwise the LLM responds independently.
+2. Below is the example of the code tweaked:
+<img width="1468" height="831" alt="image" src="https://github.com/user-attachments/assets/b986df44-6acb-414e-a818-f07cc3f764d9" />
+
