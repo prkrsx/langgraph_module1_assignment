@@ -23,3 +23,9 @@ Above is a simple graph with 3 nodes and 1 conditional edges.
 4. All these components make the Graph; START node through normal and conditional nodes to END node.
 5. Invocation is the go to standard procedure starting from START node to END nodeCheck out the below example where I tweaked the code to toss the coin in a 60/40 bias between Heads and Tails, code uploaded as well.
 <img width="1212" height="683" alt="Screenshot 2025-10-16 at 12 13 59" src="https://github.com/user-attachments/assets/d3ea36a0-cce8-402c-9647-0412d15d1794" />
+
+# Module 1: Lesson 3 - LangSmith Studio
+1. It's an IDE designed to trace and experiment with the graph, it's nodes and links.
+2. You can see the flow of an event by the Agent as a graph, modify prompts and run tests on datasets.
+<img width="2938" height="1662" alt="image" src="https://github.com/user-attachments/assets/e5ac5efd-fc71-405d-92a7-54ef7afcee38" />
+ 
